@@ -1,3 +1,6 @@
 kirmizi
+<<<<<<< HEAD
 sari
 
+=======
+siyah
